@@ -1,6 +1,8 @@
-# Origin:Salute ZF
-# label:Salute ZF
+# Origin:SaluteZF的源
+# label:SaluteZF的源
 # Author:6540188@gmail.com
 # Architecture:iphones-arm64
-# Description:介绍暂无
+# Description:自用
 # Version：版本0.1
+# Suite：stable
+# Components：main
